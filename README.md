@@ -11,7 +11,8 @@ Participants will have the opportunity to work with real outfits curated by styl
 Participants will access two datasets in the provided zip file:
 1. **Product Data (`product_data.csv`)**: This dataset includes comprehensive attributes of fashion items such as identifiers, colors, materials, product types, and image file paths.
 2. **Outfit Data (`outfit_data.csv`)**: Contains links between fashion items and outfits, identifying which items are paired together.
-Both datasets provide a wealth of features to analyze fashion item characteristics and their combinations in outfits. Refer to the **Dataset Description** for detailed information on dataset fields and relationships.
+Both datasets provide a wealth of features to analyze fashion item characteristics and their combinations in outfits. Refer to the [Dataset Description](datathon/dataset/dataset_description.md) for detailed information on dataset fields and relationships.
+
 
 
 ## Objectives
