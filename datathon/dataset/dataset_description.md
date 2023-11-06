@@ -3,6 +3,8 @@
 Below is a detailed description of the datasets you will be working with.
 
 ---
+## Download data
+All the data can be downloaded as a `.zip` file from the following [link](https://mng-datathon-upc.s3.eu-west-1.amazonaws.com/datathon.zip).
 
 ## 1. Product Data (`product_data.csv`)
 

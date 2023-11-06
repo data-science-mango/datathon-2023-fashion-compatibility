@@ -8,6 +8,8 @@ The essence of a good outfit often lies in the complementary nature of different
 Participants will have the opportunity to work with real outfits curated by stylists and fashion experts at MANGO and exhibit their proficiency in navigating a software development environment while adhering to strict deadlines and maintaining performance under a high-pressure scenario.
 
 ## Brief Data Overview
+All the data can be downloaded as a `.zip` file from the following [link](https://mng-datathon-upc.s3.eu-west-1.amazonaws.com/datathon.zip).
+
 Participants will access two datasets in the provided zip file:
 1. **Product Data (`product_data.csv`)**: This dataset includes comprehensive attributes of fashion items such as identifiers, colors, materials, product types, and image file paths.
 2. **Outfit Data (`outfit_data.csv`)**: Contains links between fashion items and outfits, identifying which items are paired together.
