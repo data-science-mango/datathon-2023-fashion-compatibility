@@ -1,4 +1,5 @@
-# UPC Datathon 2023 - Fashion Compatibility Challenge <img src="resources/icon.png" align="right" height=100/>
+# UPC Datathon 2023
+# Fashion Compatibility Challenge <img src="resources/icon.png" align="right" height=100/>
 
 ## Overview
 
@@ -9,12 +10,11 @@ The essence of a good outfit often lies in the complementary nature of different
 Participants will have the opportunity to work with real outfits curated by stylists and fashion experts at MANGO and exhibit their proficiency in navigating a software development environment while adhering to strict deadlines and maintaining performance under a high-pressure scenario.
 
 ## Brief Data Overview
-All the data can be downloaded as a `.zip` file from the following [link](https://mng-datathon-upc.s3.eu-west-1.amazonaws.com/datathon.zip).
+Participants will access two datasets and images:
 
-Participants will access two datasets in the provided zip file:
-1. **Product Data (`product_data.csv`)**: This dataset includes comprehensive attributes of fashion items such as identifiers, colors, materials, product types, and image file paths.
+1. **Product Data (`product_data.csv`)**: This dataset includes comprehensive attributes of fashion items such as identifiers, colors, materials, product types, and the file path to the associated image.
 2. **Outfit Data (`outfit_data.csv`)**: Contains links between fashion items and outfits, identifying which items are paired together.
-Both datasets provide a wealth of features to analyze fashion item characteristics and their combinations in outfits. Refer to the [Dataset Description](datathon/dataset/dataset_description.md) for detailed information on dataset fields and relationships.
+Both datasets provide a wealth of features to analyze fashion item characteristics and their combinations in outfits. Refer to the [Dataset Description](datathon/dataset/dataset_description.md) for detailed information on dataset fields, dataset relationships and how to download the data.
 
 
 
@@ -25,6 +25,7 @@ Both datasets provide a wealth of features to analyze fashion item characteristi
  
 ## Evaluation
 While the evaluation will not follow a specific performance metric, evaluation will be based on:
+
 1. A 10-minute elevator pitch, showcasing their proof-of-concept to a panel of experts with diverse experience in data science, machine learning, and fashion. Teams are expected to present at least 5 newly created outfits based on the given products in the dataset. The evaluation will focus on the creativity, complexity, applicability of the proposed solution and the team's communication abilities.
 2. The team's Github repository, showcasing:
    - Code quality & reproducibility
@@ -34,10 +35,15 @@ While the evaluation will not follow a specific performance metric, evaluation w
 ## Considerations
 * Enough time should be allocated for the final presentation as effective communication is crucial for this challenge. Preparing a demo or utilizing a UI like [Streamlit](https://streamlit.io/) can significantly aid in demonstrating your proof-of-concept.
 * Participants are free to enrich the dataset with external resources; however, pay attention to the licenses of data an/or models you utilize.
- 
+
+## Get started
+1. Fork this [Github Datathon Challenge](https://github.com/data-science-mango/datathon-2023-fashion-compatibility) repository
+2. Download the data as a `.zip` file from the following [link](https://mng-datathon-upc.s3.eu-west-1.amazonaws.com/datathon.zip) and unzip it in the forked repository.
+3. Read the [Dataset Description](datathon/dataset/dataset_description.md)
+
 ## Who we are
 With a rich legacy rooted in Barcelona, MANGO captivates the global fashion scene through its innovative blend of design and technology, offering a seamless fusion of online and in-store shopping experiences across over 115 markets, embodying the essence of taking fashion further.
- 
+
 ## Organizing Committee
 - Andrea Coloma
 - Cristina Ruiz-larrea
@@ -46,5 +52,5 @@ With a rich legacy rooted in Barcelona, MANGO captivates the global fashion scen
 - Sandra Millet Salvador
 - Lucas Anton Pastur
 - Matthias Brenninkmeijer
- 
+
 Best of luck, and happy coding!
