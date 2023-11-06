@@ -1,4 +1,5 @@
-# UPC Datathon 2023 - Fashion Compatibility Challenge
+# UPC Datathon 2023 - Fashion Compatibility Challenge <img src="resources/icon.png" align="right" height=100/>
+
 ## Overview
 
 This challenge aims to create a model capable of generating outfit recommendations based on a given initial product. Fashion matching is complex due to the nuanced patterns and visual details that dictate whether products pair well together, often going beyond mere product metadata. For instance, it's not straightforward to determine if a violet satin dress, white sandals, and a silver chic bag make a good outfit without seeing the items.
