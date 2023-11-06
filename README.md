@@ -32,19 +32,19 @@ While the evaluation will not follow a specific performance metric, evaluation w
    - Use of Version Control & Branching strategies
  
 ## Considerations
-* Enough time should be allocated for the final presentation as effective communication is crucial for this challenge. Preparing a demo or utilizing a UI like Streamlit (https://streamlit.io/) can significantly aid in demonstrating your proof-of-concept.
+* Enough time should be allocated for the final presentation as effective communication is crucial for this challenge. Preparing a demo or utilizing a UI like [Streamlit](https://streamlit.io/) can significantly aid in demonstrating your proof-of-concept.
 * Participants are free to enrich the dataset with external resources; however, pay attention to the licenses of data an/or models you utilize.
  
 ## Who we are
 With a rich legacy rooted in Barcelona, MANGO captivates the global fashion scene through its innovative blend of design and technology, offering a seamless fusion of online and in-store shopping experiences across over 115 markets, embodying the essence of taking fashion further.
  
 ## Organizing Committee
-Andrea Coloma - MANGO
-Cristina Ruiz-larrea - MANGO
-Adrian Martinez Lopez - MANGO
-Judith Beltran Lopez - MANGO
-Sandra Millet Salvador - MANGO
-Lucas Anton Pastur - MANGO
-Matthias Brenninkmeijer - MANGO
+- Andrea Coloma
+- Cristina Ruiz-larrea
+- Adrian Martinez Lopez
+- Judith Beltran Lopez
+- Sandra Millet Salvador
+- Lucas Anton Pastur
+- Matthias Brenninkmeijer
  
 Best of luck, and happy coding!
